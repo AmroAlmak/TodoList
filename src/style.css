@@ -1,0 +1,19 @@
+.centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+#form {
+  width: 400px;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid #6d6767;
+}
+
+body {
+  background-color: #dadada;
+}
